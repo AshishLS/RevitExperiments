@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RevitAddIns>
+  <AddIn Type="Command">
+    <Text>Command DirectShapeMinSize</Text>
+    <Description>Some description for DirectShapeMinSize</Description>
+    <Assembly>C:\Users\Ashish\Downloads\directshapeminsize\DirectShapeMinSize\bin\Debug\DirectShapeMinSize.dll</Assembly>
+    <FullClassName>DirectShapeMinSize.Command</FullClassName>
+    <ClientId>ca2ac770-c624-4e6d-80c6-af94d2088cdf</ClientId>
+    <VendorId>TBC_</VendorId>
+    <VendorDescription>The Building Coder, http://thebuildingcoder.typepad.com</VendorDescription>
+  </AddIn>
+</RevitAddIns>
